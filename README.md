@@ -1,7 +1,7 @@
 <h3 align="center"> XiaoZheng Song </h3>
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=beiyuouo&show_icons=true&hide_border=true&theme=radical" width="50%">
+---
 
 #### Hola my vistiters
 
