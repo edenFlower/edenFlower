@@ -5,7 +5,9 @@
 
 #### Hola my vistiters
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edenFlower&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=edenFlower&show_icons=true&theme=blueberry" width="50%">
+
 
 ![](https://komarev.com/ghpvc/?username=edenFlower&color=green&style=flat-square)
 <!--
