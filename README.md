@@ -13,7 +13,7 @@
 #### Welcome to my github profile!
 
 - 🔭 I’m a postgraduate student.
-- 🌱 My current research interests are focus on federated learning, edge computing, and distributed systems.
+- 🌱 My current research interests are focus on NLP.
 - 🎨 I am glad to share and communicate with you.
 - ❤️ Also love AI for art.
 
