@@ -16,9 +16,6 @@
 - 🌱 My current research interests are focus on NLP.
 - 🎨 I am glad to share and communicate with you.
 
-<table width="100%" align="center" padding="0" margin="0">
-<tr>
-<td valign="top" width="50%">
 
 
 <!--
